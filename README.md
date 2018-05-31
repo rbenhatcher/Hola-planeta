@@ -1,2 +1,2 @@
 # Hola-planeta
-un receptaculo como qualquier otro
+Ordenadores ordenan numeros, pero han desordenado la vida, trabado el trabajo e incrementado la incrementacion mas alla de lo esperado.
